@@ -1,7 +1,7 @@
 # EmbeddedImageAcquisition
 Author: Hasan Baig
 email: hasan.baig@hotmail.com
-WEb: http://www.hasanbaig.com
+Web: http://www.hasanbaig.com
 
 These codes are developed for embedded image acquisition using PIC microcontrollers and C328 serial camera module. It extracts the image from C328 camera module and store it into RAM first. The GPRS controller is included to receive commands from server to request image data.
 
